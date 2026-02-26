@@ -11,10 +11,14 @@
             "id": "67a92acdfd8c8750",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Base/Учеба/Проверка.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Проверка"
             }
           }
         ]
@@ -174,6 +178,7 @@
   },
   "active": "67a92acdfd8c8750",
   "lastOpenFiles": [
+    "Base/Учеба/Проверка.md",
     "Base/Работа/ЭЦП/КриптоПРО.md",
     "Base/Работа/1С/Зависает 1С после логина в базу.md",
     "Base/Работа/1С/Добавление базы через веб-публикацию.md",
