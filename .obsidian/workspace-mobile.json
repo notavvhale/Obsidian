@@ -11,14 +11,10 @@
             "id": "67a92acdfd8c8750",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Учеба/Проверка.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Проверка"
+              "title": "New tab"
             }
           }
         ]
@@ -178,11 +174,12 @@
   },
   "active": "67a92acdfd8c8750",
   "lastOpenFiles": [
+    "Base/Учеба/Проверка.md",
+    "/Base/Учеба",
+    "/Base",
     "/Base/Работа/ККТ/Регистрация ККТ.md",
     "/Base/Работа/ККТ",
     "/Base/Работа",
-    "/Base",
-    "Base/Учеба/Проверка.md",
     "Base/Работа/ЭЦП/КриптоПРО.md",
     "Base/Работа/1С/Зависает 1С после логина в базу.md",
     "Base/Работа/1С/Добавление базы через веб-публикацию.md",
@@ -214,7 +211,6 @@
     "Base/Учеба/Zabbix.md",
     "Base/Учеба/Сервер ломаных лицензий 1С.md",
     "Base/Отношения",
-    "Base/Картинки",
-    "Base/Работа"
+    "Base/Картинки"
   ]
 }
