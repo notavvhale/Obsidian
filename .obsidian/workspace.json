@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5795b7b46edb71d6",
+  "active": "997b8bb64daf20c8",
   "lastOpenFiles": [
+    "Base/Учеба/Проверка.md",
+    "Base/Картинки/Pasted image 20260213091506.png",
     "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
     "Obsidian/Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
     "Obsidian/Base/Работа/ККТ/Регистрация ККТ.md",
@@ -225,7 +227,6 @@
     "Obsidian/Base/Картинки/Pasted image 20260206125328.png",
     "Obsidian/Base/Картинки/Pasted image 20260205134148.png",
     "Obsidian/Base/Картинки/Pasted image 20260205133551.png",
-    "Obsidian/Base/Картинки/Pasted image 20260205133452.png",
     "Obsidian/Base/Хобби",
     "Obsidian/Base/Учеба",
     "Obsidian/Base/Родственники",
@@ -240,7 +241,6 @@
     "Base/Работа/1С/Зависает 1С после логина в базу.md",
     "Base/Работа/1С/Учётка 1С.md",
     "Base/Работа/1С/Добавление базы через веб-публикацию.md",
-    "Base/Хобби/Дневник.md",
-    "Base/Учеба/Mikrotik Обратный NAT.md"
+    "Base/Хобби/Дневник.md"
   ]
 }
