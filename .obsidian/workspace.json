@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Учеба/Проверка.md",
+                "file": "Base/Работа/ККТ/Регистрация ККТ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проверка"
+              "title": "Регистрация ККТ"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "5795b7b46edb71d6",
   "lastOpenFiles": [
-    "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Учеба/Проверка.md",
+    "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Картинки/Pasted image 20260213091506.png",
     "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
     "Obsidian/Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
