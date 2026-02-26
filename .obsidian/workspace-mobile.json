@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "9c842eca47994c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cc08a32fd7a2f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a92acdfd8c8750",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61b7d1f1ff6a970f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2b778df5df68e42c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5ec7dcb8b193a031",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3f2ef9c78a9fb67c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d0aa14caeaef9b1b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "fb884b4a697b915c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "aedf60093e34a716",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d1fc5451e1db9f6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "acc6fc5b02f8458f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "494d9841e2c763d7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f305a5577f5f2c6a",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "67a92acdfd8c8750",
+  "lastOpenFiles": [
+    "Base/Работа/ЭЦП/КриптоПРО.md",
+    "Base/Работа/1С/Зависает 1С после логина в базу.md",
+    "Base/Работа/1С/Добавление базы через веб-публикацию.md",
+    "Base/Работа/1С/Учётка 1С.md",
+    "Base/Работа/ККТ/Регистрация ККТ.md",
+    "Base/Работа/ККТ/Если ФН просрочен и не даёт его закрыть.md",
+    "Base/Работа/ККТ/Не удается закрыть архив ФН. Просрочен ФН..md",
+    "Base/Работа/ККТ/Замена ФН.md",
+    "Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
+    "Base/Отношения/Что хочет изменить.md",
+    "Base/Отношения/14 февраля.md",
+    "Base/Картинки/Pasted image 20260203131906.png",
+    "Base/Картинки/Pasted image 20260213091506.png",
+    "Base/Картинки/Pasted image 20260202094128.png",
+    "Base/Картинки/Pasted image 20260202093900.png",
+    "Base/Картинки/Pasted image 20260205133452.png",
+    "Base/Картинки/Pasted image 20260202111245.png",
+    "Base/Картинки/Pasted image 20260202093911.png",
+    "Base/Картинки/Pasted image 20260204092835.png",
+    "Base/Картинки/Pasted image 20260202094148.png",
+    "Base/Картинки/Pasted image 20260206125328.png",
+    "Base/Работа/ЭЦП",
+    "Base/Работа/1С",
+    "Base/Работа/ККТ",
+    "Base/Работа/Фронтол",
+    "Base/Хобби/Дневник.md",
+    "Base/Учеба/Mikrotik Обратный NAT.md",
+    "Base/Учеба/Веб-публикация 1С IIS Apache.md",
+    "Base/Учеба/Zabbix.md",
+    "Base/Учеба/Сервер ломаных лицензий 1С.md",
+    "Base/Отношения",
+    "Base/Картинки",
+    "Base/Работа",
+    "Base/Хобби",
+    "Base/Учеба",
+    "Base"
+  ]
+}
