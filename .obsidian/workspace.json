@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "4f5c56262fdc08cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "510557679724e913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5795b7b46edb71d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b19e213588bfdc38",
+    "type": "split",
+    "children": [
+      {
+        "id": "76249bb8ab05240d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc90dc7f5ab0e541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a959d9c7b642afcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4047215cd66c6a4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bee8dc3c15689e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "446b36651f09a846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f5dd7dfbc47ef6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA"
+            }
+          },
+          {
+            "id": "8fba0fd0470a16cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA"
+            }
+          },
+          {
+            "id": "36582bc141b8423f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d30a020dbf64b21d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f36f4618b342270e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Untitled"
+            }
+          },
+          {
+            "id": "997b8bb64daf20c8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "997b8bb64daf20c8",
+  "lastOpenFiles": [
+    "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
+    "Obsidian/Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
+    "Obsidian/Base/Работа/ККТ/Регистрация ККТ.md",
+    "Obsidian/Base/Работа/ККТ/Не удается закрыть архив ФН. Просрочен ФН..md",
+    "Obsidian/Base/Работа/ККТ/Замена ФН.md",
+    "Obsidian/Base/Работа/ККТ/Если ФН просрочен и не даёт его закрыть.md",
+    "Obsidian/Base/Работа/1С/Учётка 1С.md",
+    "Obsidian/Base/Работа/1С/Зависает 1С после логина в базу.md",
+    "Obsidian/Base/Работа/1С/Добавление базы через веб-публикацию.md",
+    "Obsidian/Base/Хобби/Дневник.md",
+    "Obsidian/Base/Учеба/Сервер ломаных лицензий 1С.md",
+    "Obsidian/Base/Учеба/Веб-публикация 1С IIS Apache.md",
+    "Obsidian/Base/Учеба/Zabbix.md",
+    "Obsidian/Base/Учеба/Mikrotik Обратный NAT.md",
+    "Obsidian/Base/Работа/ЭЦП",
+    "Obsidian/Base/Работа/Фронтол",
+    "Obsidian/Base/Работа/ККТ",
+    "Obsidian/Base/Работа/1С",
+    "Obsidian/Base/Отношения/Что хочет изменить.md",
+    "Obsidian/Base/Отношения/14 февраля.md",
+    "Obsidian/Base/Картинки/Pasted image 20260213091506.png",
+    "Obsidian/Base/Картинки/Pasted image 20260213091407.png",
+    "Obsidian/Base/Картинки/Pasted image 20260213091333.png",
+    "Obsidian/Base/Картинки/Pasted image 20260212162124.png",
+    "Obsidian/Base/Картинки/Pasted image 20260213091132.png",
+    "Obsidian/Base/Картинки/Pasted image 20260206170625.png",
+    "Obsidian/Base/Картинки/Pasted image 20260206125328.png",
+    "Obsidian/Base/Картинки/Pasted image 20260205134148.png",
+    "Obsidian/Base/Картинки/Pasted image 20260205133551.png",
+    "Obsidian/Base/Картинки/Pasted image 20260205133452.png",
+    "Obsidian/Base/Хобби",
+    "Obsidian/Base/Учеба",
+    "Obsidian/Base/Родственники",
+    "Obsidian/Base/Работа",
+    "Obsidian/Base/Проекты",
+    "Obsidian/Base/Отношения",
+    "Base/Учеба/Веб-публикация 1С IIS Apache.md",
+    "Base/Учеба/Сервер ломаных лицензий 1С.md",
+    "Base/Учеба/Zabbix.md",
+    "Base/Работа/ЭЦП/КриптоПРО.md",
+    "Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
+    "Base/Работа/1С/Зависает 1С после логина в базу.md",
+    "Base/Работа/1С/Учётка 1С.md",
+    "Base/Работа/1С/Добавление базы через веб-публикацию.md",
+    "Base/Хобби/Дневник.md",
+    "Base/Учеба/Mikrotik Обратный NAT.md"
+  ]
+}
