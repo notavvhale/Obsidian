@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "510557679724e913",
+        "id": "6982d0f0d6c2a6b7",
         "type": "tabs",
         "children": [
           {
-            "id": "5795b7b46edb71d6",
+            "id": "a7267e0e81af4d9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Работа/ККТ/Регистрация ККТ.md",
+                "file": "Base/Проекты/Синхронизация GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Регистрация ККТ"
+              "title": "Синхронизация GIT"
             }
           }
         ]
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5795b7b46edb71d6",
+  "active": "dc90dc7f5ab0e541",
   "lastOpenFiles": [
-    "Base/Учеба/Проверка.md",
+    "Base/Проекты/Синхронизация GIT.md",
     "Base/Работа/ККТ/Регистрация ККТ.md",
+    "Base/Учеба/Проверка.md",
     "Base/Картинки/Pasted image 20260213091506.png",
     "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
     "Obsidian/Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
@@ -240,7 +241,6 @@
     "Base/Работа/ЭЦП/КриптоПРО.md",
     "Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
     "Base/Работа/1С/Зависает 1С после логина в базу.md",
-    "Base/Работа/1С/Учётка 1С.md",
-    "Base/Работа/1С/Добавление базы через веб-публикацию.md"
+    "Base/Работа/1С/Учётка 1С.md"
   ]
 }
