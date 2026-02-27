@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6982d0f0d6c2a6b7",
+        "id": "8a5d554a11c61821",
         "type": "tabs",
         "children": [
           {
-            "id": "a7267e0e81af4d9e",
+            "id": "50594bb511bf860c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Base/Проекты/Синхронизация GIT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Untitled"
+              "title": "Структура Синхронизация GIT"
             }
           },
           {
@@ -176,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc90dc7f5ab0e541",
+  "active": "50594bb511bf860c",
   "lastOpenFiles": [
+    "Base/Картинки/Pasted image 20260227154721.png",
+    "Base/Картинки/Pasted image 20260227154723.png",
     "Base/Проекты/Синхронизация GIT.md",
     "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Учеба/Проверка.md",
@@ -227,8 +230,6 @@
     "Obsidian/Base/Картинки/Pasted image 20260213091132.png",
     "Obsidian/Base/Картинки/Pasted image 20260206170625.png",
     "Obsidian/Base/Картинки/Pasted image 20260206125328.png",
-    "Obsidian/Base/Картинки/Pasted image 20260205134148.png",
-    "Obsidian/Base/Картинки/Pasted image 20260205133551.png",
     "Obsidian/Base/Хобби",
     "Obsidian/Base/Учеба",
     "Obsidian/Base/Родственники",
@@ -240,7 +241,6 @@
     "Base/Учеба/Zabbix.md",
     "Base/Работа/ЭЦП/КриптоПРО.md",
     "Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
-    "Base/Работа/1С/Зависает 1С после логина в базу.md",
-    "Base/Работа/1С/Учётка 1С.md"
+    "Base/Работа/1С/Зависает 1С после логина в базу.md"
   ]
 }
