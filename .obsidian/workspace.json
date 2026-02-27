@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bee8dc3c15689e4d",
@@ -176,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +197,20 @@
   },
   "active": "50594bb511bf860c",
   "lastOpenFiles": [
+    "Pasted image 20260227175413.png",
+    "Pasted image 20260227175315.png",
+    "Pasted image 20260227175151.png",
+    "Base/Картинки/Pasted image 20260227174920.png",
+    "Base/Картинки/Pasted image 20260227174917.png",
+    "Base/Картинки/Pasted image 20260227174713.png",
+    "Base/Картинки/Pasted image 20260227174651.png",
+    "Base/Картинки/Pasted image 20260227174122.png",
+    "Base/Картинки/Pasted image 20260227173918.png",
     "Base/Картинки/Pasted image 20260227154721.png",
     "Base/Картинки/Pasted image 20260227154723.png",
     "Base/Проекты/Синхронизация GIT.md",
     "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Учеба/Проверка.md",
-    "Base/Картинки/Pasted image 20260213091506.png",
     "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
     "Obsidian/Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
     "Obsidian/Base/Работа/ККТ/Регистрация ККТ.md",
@@ -223,13 +231,6 @@
     "Obsidian/Base/Работа/1С",
     "Obsidian/Base/Отношения/Что хочет изменить.md",
     "Obsidian/Base/Отношения/14 февраля.md",
-    "Obsidian/Base/Картинки/Pasted image 20260213091506.png",
-    "Obsidian/Base/Картинки/Pasted image 20260213091407.png",
-    "Obsidian/Base/Картинки/Pasted image 20260213091333.png",
-    "Obsidian/Base/Картинки/Pasted image 20260212162124.png",
-    "Obsidian/Base/Картинки/Pasted image 20260213091132.png",
-    "Obsidian/Base/Картинки/Pasted image 20260206170625.png",
-    "Obsidian/Base/Картинки/Pasted image 20260206125328.png",
     "Obsidian/Base/Хобби",
     "Obsidian/Base/Учеба",
     "Obsidian/Base/Родственники",
