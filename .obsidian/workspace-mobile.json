@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Учеба/Zabbix.md",
+                "file": "Base/Отношения/Что хочет изменить.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zabbix"
+              "title": "Что хочет изменить"
             }
           }
         ]
@@ -178,6 +178,24 @@
   },
   "active": "67a92acdfd8c8750",
   "lastOpenFiles": [
+    "Base/Отношения/14 февраля.md",
+    "Base/Проекты/Синхронизация GIT.md",
+    "Base/Учеба/Zabbix.md",
+    "Base/Картинки/Pasted image 20260227174713.png",
+    "Base/Картинки/Pasted image 20260227174651.png",
+    "Base/Картинки/Pasted image 20260227173918.png",
+    "Pasted image 20260227175315.png",
+    "Base/Картинки/Pasted image 20260227174920.png",
+    "Pasted image 20260227175413.png",
+    "Base/Картинки/Pasted image 20260227174122.png",
+    "Base/Картинки/Pasted image 20260227154723.png",
+    "Base/Картинки/Pasted image 20260227174917.png",
+    "Pasted image 20260227175151.png",
+    "/Base/Проекты/Синхронизация GIT.md",
+    "/Base/Картинки",
+    "/Base/Проекты",
+    "Base/Проекты",
+    "/Base",
     "Base/Учеба/Mikrotik Обратный NAT.md",
     "Base/Учеба/Сервер ломаных лицензий 1С.md",
     "Base/Учеба/Веб-публикация 1С IIS Apache.md",
@@ -192,29 +210,13 @@
     "Base/Работа/1С/Добавление базы через веб-публикацию.md",
     "Base/Учеба/Проверка.md",
     "/Base/Учеба",
-    "/Base",
     "/Base/Работа/ККТ/Регистрация ККТ.md",
     "/Base/Работа/ККТ",
     "/Base/Работа",
     "Base/Отношения/Что хочет изменить.md",
-    "Base/Отношения/14 февраля.md",
-    "Base/Картинки/Pasted image 20260203131906.png",
-    "Base/Картинки/Pasted image 20260213091506.png",
-    "Base/Картинки/Pasted image 20260202094128.png",
-    "Base/Картинки/Pasted image 20260202093900.png",
-    "Base/Картинки/Pasted image 20260205133452.png",
-    "Base/Картинки/Pasted image 20260202111245.png",
-    "Base/Картинки/Pasted image 20260202093911.png",
-    "Base/Картинки/Pasted image 20260204092835.png",
-    "Base/Картинки/Pasted image 20260202094148.png",
-    "Base/Картинки/Pasted image 20260206125328.png",
     "Base/Работа/ЭЦП",
     "Base/Работа/1С",
     "Base/Работа/ККТ",
-    "Base/Работа/Фронтол",
-    "Base/Хобби/Дневник.md",
-    "Base/Учеба/Zabbix.md",
-    "Base/Отношения",
-    "Base/Картинки"
+    "Base/Хобби/Дневник.md"
   ]
 }
