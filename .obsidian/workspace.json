@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a5d554a11c61821",
+        "id": "c596227c0285cf81",
         "type": "tabs",
         "children": [
           {
-            "id": "50594bb511bf860c",
+            "id": "a74472414dcb9eda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Проекты/Синхронизация GIT.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Синхронизация GIT"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bee8dc3c15689e4d",
@@ -195,20 +190,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50594bb511bf860c",
+  "active": "dc90dc7f5ab0e541",
   "lastOpenFiles": [
-    "Pasted image 20260227175739.png",
-    "Pasted image 20260227175413.png",
-    "Pasted image 20260227175315.png",
-    "Pasted image 20260227175151.png",
+    "Base/Проекты/Синхронизация GIT.md",
+    "Base/Картинки/Pasted image 20260227175739.png",
+    "Base/Картинки/Pasted image 20260227175413.png",
+    "Base/Картинки/Pasted image 20260227175315.png",
+    "Base/Картинки/Pasted image 20260227175151.png",
     "Base/Картинки/Pasted image 20260227174920.png",
     "Base/Картинки/Pasted image 20260227174917.png",
     "Base/Картинки/Pasted image 20260227174713.png",
     "Base/Картинки/Pasted image 20260227174651.png",
     "Base/Картинки/Pasted image 20260227174122.png",
     "Base/Картинки/Pasted image 20260227173918.png",
-    "Base/Картинки/Pasted image 20260227154721.png",
-    "Base/Проекты/Синхронизация GIT.md",
     "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Учеба/Проверка.md",
     "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
