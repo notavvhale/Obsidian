@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
+                "file": "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Веб-публикация 1С IIS Apache"
+              "title": "Обновление сертификата через СБИС"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "a74472414dcb9eda",
   "lastOpenFiles": [
+    "Pasted image 20260304175403.png",
+    "Base/Работа/ЭЦП/КриптоПРО.md",
+    "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
+    "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Учеба/СИТ",
     "Base/Работа/ККТ/Не удается закрыть архив ФН. Просрочен ФН..md",
@@ -229,9 +233,6 @@
     "Obsidian/Base/Работа/1С/Зависает 1С после логина в базу.md",
     "Obsidian/Base/Работа/1С/Добавление базы через веб-публикацию.md",
     "Obsidian/Base/Хобби/Дневник.md",
-    "Obsidian/Base/Учеба/Сервер ломаных лицензий 1С.md",
-    "Obsidian/Base/Учеба/Веб-публикация 1С IIS Apache.md",
-    "Obsidian/Base/Учеба/Zabbix.md",
     "Obsidian/Base/Работа/ЭЦП",
     "Obsidian/Base/Работа/Фронтол",
     "Obsidian/Base/Работа/ККТ",
