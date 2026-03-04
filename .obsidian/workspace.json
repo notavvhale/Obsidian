@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Работа/ККТ/Регистрация ККТ.md",
+                "file": "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Регистрация ККТ"
+              "title": "Веб-публикация 1С IIS Apache"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc90dc7f5ab0e541",
+  "active": "a74472414dcb9eda",
   "lastOpenFiles": [
+    "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Учеба/СИТ",
     "Base/Работа/ККТ/Не удается закрыть архив ФН. Просрочен ФН..md",
     "Base/Работа/ККТ/Если ФН просрочен и не даёт его закрыть.md",
@@ -206,7 +207,6 @@
     "Base/Отношения/8 марта.md",
     "Base/Работа/Определение комплектующих ПК.md",
     "Base/Работа/Стандарт затраченного времени.md",
-    "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Проекты/Синхронизация GIT.md",
     "Base/Картинки/Pasted image 20260227175739.png",
     "Base/Картинки/Pasted image 20260227175413.png",
@@ -240,7 +240,6 @@
     "Obsidian/Base/Учеба",
     "Obsidian/Base/Родственники",
     "Obsidian/Base/Работа",
-    "Obsidian/Base/Проекты",
-    "Obsidian/Base/Отношения"
+    "Obsidian/Base/Проекты"
   ]
 }
