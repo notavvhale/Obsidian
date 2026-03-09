@@ -11,15 +11,32 @@
             "id": "67a92acdfd8c8750",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260304175403.png"
+                "file": "Base/Отношения/8 марта.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260304175403"
+              "icon": "lucide-file",
+              "title": "8 марта"
+            }
+          },
+          {
+            "id": "63e22cbaa59ec8ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тонирование вкруг.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тонирование вкруг"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67a92acdfd8c8750",
+  "active": "63e22cbaa59ec8ae",
   "lastOpenFiles": [
+    "Base/Отношения/8 марта.md",
+    "Тонирование вкруг.md",
+    "Pasted image 20260304175403.png",
     "Base/Отношения/Что хочет изменить.md",
     "Base/Картинки/Pasted image 20260227175413.png",
     "Base/Работа/Определение комплектующих ПК.md",
@@ -187,7 +207,6 @@
     "Base/Учеба/СИТ/Zabbix.md",
     "Base/Учеба/СИТ/Сервер ломаных лицензий 1С.md",
     "Base/Учеба/СИТ",
-    "Pasted image 20260304175403.png",
     "/Base/Учеба/СИТ/Сервер ломаных лицензий 1С.md",
     "/Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "/Base/Учеба/СИТ/Zabbix.md",
@@ -210,7 +229,6 @@
     "/Base/Проекты/Синхронизация GIT.md",
     "/Base/Проекты",
     "/Base/Отношения/8 марта.md",
-    "Base/Отношения/8 марта.md",
     "/Base/Отношения",
     "/Base/Учеба/СИТ",
     "/Base/Учеба",
@@ -220,7 +238,6 @@
     "Base/Учеба/Zabbix.md",
     "Base/Учеба/Mikrotik Обратный NAT.md",
     "Base/Учеба/Сервер ломаных лицензий 1С.md",
-    "Base/Учеба/Веб-публикация 1С IIS Apache.md",
-    "Base/Работа/ЭЦП/КриптоПРО.md"
+    "Base/Учеба/Веб-публикация 1С IIS Apache.md"
   ]
 }
