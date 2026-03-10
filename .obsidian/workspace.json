@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
+                "file": "Base/Учеба/СИТ/Zabbix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обновление сертификата через СБИС"
+              "title": "Zabbix"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bee8dc3c15689e4d",
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 448.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +198,10 @@
   },
   "active": "a74472414dcb9eda",
   "lastOpenFiles": [
-    "Pasted image 20260304175403.png",
-    "Base/Работа/ЭЦП/КриптоПРО.md",
+    "Base/Отношения/Тонирование вкруг.md",
     "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
+    "Base/Картинки/Pasted image 20260304175403.png",
+    "Base/Работа/ЭЦП/КриптоПРО.md",
     "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "Base/Работа/ККТ/Регистрация ККТ.md",
     "Base/Учеба/СИТ",
@@ -221,7 +224,6 @@
     "Base/Картинки/Pasted image 20260227174713.png",
     "Base/Картинки/Pasted image 20260227174651.png",
     "Base/Картинки/Pasted image 20260227174122.png",
-    "Base/Картинки/Pasted image 20260227173918.png",
     "Base/Учеба/Проверка.md",
     "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
     "Obsidian/Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
