@@ -16,7 +16,7 @@
 
 # Создание прокси для заббикса
 
-
+Zabbix Proxy нужен, чтобы собирать данные рядом с устройствами, хранить их и разгружать основной сервер.
 брал гайд отсюда - https://serverspace.ru/support/help/nastrojka-zabbix-dlya-raspredelennogo-monitoringa/?utm
 1. Нужен серв linux. Я создал на ESXI виртуалку ubuntu server 22.04.3.![[Pasted image 20260202111148.png]]
 
