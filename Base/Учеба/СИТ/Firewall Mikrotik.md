@@ -27,12 +27,19 @@ add action=accept chain=input in-interface-list=!WAN protocol=icmp
 %% allow established (after handshake) connection %%   
 add action=accept chain=input connection-state=established in-interface-list=\
     WAN
+%% allow related (connected with established connection) connection %%   
 add action=accept chain=input connection-state=related in-interface-list=WAN
+%% allow forward inside network %%
 add action=accept chain=forward in-interface-list=LAN
+%% drop new INPUT except srcnat(return package) and dstnat(port forwarding)%%
 add action=drop chain=input connection-nat-state=!srcnat,dstnat \
     connection-state=new in-interface-list=WAN
+%% drop new FORWARD except srcnat(return package) and dstnat(port forwarding)%%
 add action=drop chain=forward connection-nat-state=!srcnat,dstnat \
     connection-state=new in-interface-list=WAN
+%% drop INPUT invalid package from WAN%%
 add action=drop chain=input connection-state=invalid in-interface-list=WAN
+%% drop FORWARD invalid package from WAN%%
 add action=drop chain=forward connection-state=invalid in-interface-list=WAN
+%% allow WINBOX CONNECTION only from 185.216.16.162. Always first rule%%
 add action=accept chain=input dst-port=8291 protocol=tcp src-address=185.216.16.162 place-before 0

@@ -35,8 +35,7 @@
               "title": "Firewall Mikrotik"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bee8dc3c15689e4d",
@@ -211,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "316fae985e58fe13",
+  "active": "a74472414dcb9eda",
   "lastOpenFiles": [
     "Dungeons & Dragons.md",
     "Pasted image 20260312170823.png",
