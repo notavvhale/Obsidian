@@ -17,10 +17,14 @@ add chain=input action=accept protocol=ipsec-esp
 add action=accept chain=forward in-interface-list=WAN protocol=gre
 %% allow gre-tunnel input (to mikrotik)%% 
 add action=accept chain=input in-interface-list=WAN protocol=gre
+%% allow PPTP input (to mikrotik)%%
 add action=accept chain=input dst-port=1723 in-interface-list=WAN protocol=\
     tcp
-dd action=accept chain=input in-interface-list=WAN protocol=icmp src-address=185.216.16.162
+%% allow ping from 185.216.16.162 %%   
+add action=accept chain=input in-interface-list=WAN protocol=icmp src-address=185.216.16.162
+%% allow ping from local network %%   
 add action=accept chain=input in-interface-list=!WAN protocol=icmp
+%% allow established (after handshake) connection %%   
 add action=accept chain=input connection-state=established in-interface-list=\
     WAN
 add action=accept chain=input connection-state=related in-interface-list=WAN
