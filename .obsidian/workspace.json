@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
+                "file": "Base/Учеба/СИТ/Активация AutoDesk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Веб-публикация 1С IIS Apache"
+              "title": "Активация AutoDesk"
             }
           },
           {
@@ -226,10 +226,12 @@
   },
   "active": "74a366f189265d72",
   "lastOpenFiles": [
-    "Base/Хобби/Dungeons & Dragons.md",
+    "Pasted image 20260317164726.png",
+    "Pasted image 20260317164625.png",
     "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
+    "Base/Хобби/Dungeons & Dragons.md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
-    "Base/Учеба/СИТ/Без названия.md",
+    "Base/Учеба/СИТ/Активация AutoDesk.md",
     "Base/Учеба/СИТ/Firewall Mikrotik.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
     "Base/Картинки/Pasted image 20260312170823.png",
@@ -256,13 +258,11 @@
     "Base/Картинки/Pasted image 20260227174920.png",
     "Base/Картинки/Pasted image 20260227174917.png",
     "Base/Картинки/Pasted image 20260227174713.png",
-    "Base/Картинки/Pasted image 20260227174651.png",
     "Base/Учеба/Проверка.md",
     "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
     "Obsidian/Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
     "Obsidian/Base/Работа/ККТ/Регистрация ККТ.md",
     "Obsidian/Base/Работа/ККТ/Не удается закрыть архив ФН. Просрочен ФН..md",
-    "Obsidian/Base/Работа/ККТ/Замена ФН.md",
     "Obsidian/Base/Работа/ЭЦП",
     "Obsidian/Base/Работа/Фронтол",
     "Obsidian/Base/Работа/ККТ",
