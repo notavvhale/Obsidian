@@ -4,3 +4,7 @@
 
 запускаем от админа AdskLicensing-installer.exe 
 ![[Pasted image 20260317164726.png]]
+
+потом запускаем adskNLM от админа
+потом меняем C:/Autodesk/
+C:\Program Files (x86)\Common Files\Autodesk Shared\Network License Manager
