@@ -8,3 +8,4 @@
 потом запускаем adskNLM от админа
 потом меняем C:/Autodesk/
 C:\Program Files (x86)\Common Files\Autodesk Shared\Network License Manager
+C:\Program Files (x86)\Common Files\Autodesk Shared\AdskLicensing - тут uninstall
