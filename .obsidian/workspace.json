@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Учеба/СИТ/Активация AutoDesk.md",
+                "file": "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Активация AutoDesk"
+              "title": "Активация AutoDesk Сетевая лицензия"
             }
           },
           {
@@ -209,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,14 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc90dc7f5ab0e541",
+  "active": "74a366f189265d72",
   "lastOpenFiles": [
     "Base/Картинки/Pasted image 20260317164726.png",
     "Base/Картинки/Pasted image 20260317164625.png",
     "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "Base/Хобби/Dungeons & Dragons.md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
-    "Base/Учеба/СИТ/Активация AutoDesk.md",
+    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/Учеба/СИТ/Firewall Mikrotik.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
     "Base/Картинки/Pasted image 20260312170823.png",
