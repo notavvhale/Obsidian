@@ -54,3 +54,4 @@ Installing the 'Apache HTTP Server' service
 Вопросы
 
 Почему не подключается по порту 443 https
+Потому что нет сертификата
