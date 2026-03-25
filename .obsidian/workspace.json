@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Работа/ККТ/Драйвер ККТ всегда х32.md",
+                "file": "Base/Работа/Сброс таймера Rudesk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Драйвер ККТ всегда х32"
+              "title": "Сброс таймера Rudesk"
             }
           },
           {
@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Firewall Mikrotik"
             }
+          },
+          {
+            "id": "a6393cc7417622bb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -223,15 +235,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74a366f189265d72",
+  "active": "a6393cc7417622bb",
   "lastOpenFiles": [
-    "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
+    "Base/Картинки/Pasted image 20260325134418.png",
+    "Base/Работа/Стандарт затраченного времени.md",
+    "Base/Работа/Сброс таймера Rudesk.md",
+    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/Работа/ККТ/Драйвер ККТ всегда х32.md",
+    "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "Base/Учеба/СИТ/Firewall Mikrotik.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
     "Base/Хобби/Dungeons & Dragons.md",
-    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/Картинки/Pasted image 20260317164726.png",
     "Base/Картинки/Pasted image 20260317164625.png",
     "Base/Картинки/Pasted image 20260312170823.png",
@@ -249,7 +264,6 @@
     "Base/Работа/1С/Добавление базы через веб-публикацию.md",
     "Base/Отношения/8 марта.md",
     "Base/Работа/Определение комплектующих ПК.md",
-    "Base/Работа/Стандарт затраченного времени.md",
     "Base/Проекты/Синхронизация GIT.md",
     "Base/Картинки/Pasted image 20260227175739.png",
     "Base/Картинки/Pasted image 20260227175413.png",
@@ -260,8 +274,6 @@
     "Base/Учеба/Проверка.md",
     "Obsidian/Base/Работа/ЭЦП/КриптоПРО.md",
     "Obsidian/Base/Работа/Фронтол/Ошибка ККМ Атол Для работы с драйвером необходимо запустить службу UEMA.md",
-    "Obsidian/Base/Работа/ККТ/Регистрация ККТ.md",
-    "Obsidian/Base/Работа/ККТ/Не удается закрыть архив ФН. Просрочен ФН..md",
     "Obsidian/Base/Работа/ЭЦП",
     "Obsidian/Base/Работа/Фронтол",
     "Obsidian/Base/Работа/ККТ",
