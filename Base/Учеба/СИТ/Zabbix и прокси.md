@@ -24,7 +24,8 @@ Zabbix Proxy нужен, чтобы собирать данные рядом с 
 2. Переходим по [ссылке](https://www.zabbix.com/download?zabbix=6.4&os_distribution=ubuntu&os_version=20.04&components=proxy&db=mysql&ws=) и по гайду копипастим команды.![[Pasted image 20260202111245.png]]Чтобы нормально копипастились команды можно подключиться по SSH.
    ip a - узнать ip в ubuntu
    в cmd - ssh username@ip_address
-   Сейчас у меня так - ssh administrator@192.168.2.146![[Pasted image 20260202112230.png]]У меня была ошибка 
+   Сейчас у меня так - ssh administrator@192.168.2.146
+   Пароль Zxc%6739![[Pasted image 20260202112230.png]]У меня была ошибка 
    "E: The repository 'file:/cdrom jammy Release' no longer has a Release file" 
    красная 
    и ещё два предупреждения
