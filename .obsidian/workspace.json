@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
+                "file": "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Активация AutoDesk Сетевая лицензия"
+              "title": "Active Directory Domain Service(AD DS)"
             }
           }
         ],
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 448.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,9 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "997b8bb64daf20c8",
+  "active": "316fae985e58fe13",
   "lastOpenFiles": [
-    "Base/Учеба/СИТ/Active Directory (AD DS).md",
+    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
+    "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
     "Base/Учеба/СИТ/FTP.md",
@@ -245,7 +247,6 @@
     "Base/Картинки/Pasted image 20260325134418.png",
     "Base/Работа/Стандарт затраченного времени.md",
     "Base/Работа/Сброс таймера Rudesk.md",
-    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/Работа/ККТ/Драйвер ККТ всегда х32.md",
     "Base/Хобби/Dungeons & Dragons.md",
     "Base/Картинки/Pasted image 20260317164726.png",
