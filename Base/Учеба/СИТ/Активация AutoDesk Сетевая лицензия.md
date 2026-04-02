@@ -8,8 +8,8 @@ C:\Program Files (x86)\Common Files\Autodesk Shared\AdskLicensing - тут unins
 ![[Pasted image 20260317164726.png]]
 
 потом запускаем adskNLM от админа
-потом меняем C:\Program Files (x86)\Common Files\Autodesk Shared\Network License Manager файл лицензии.
+потом меняем C:\Program Files (x86)\Common Files\Autodesk Shared\Network License Manager файл лицензии. Открываем с помощью блокнота или notepad++ и меняем весь текст ключей лицензии. Главное не удалять пробел в конце.
 
-потом по тому же пути запускает exe, переходим во вкладку сервера, потом Reread лицензию надо и в конце проверить работает ли.
+потом по тому же пути запускаем Tools.exe, переходим во вкладку сервера, потом Reread лицензию надо и в конце проверить работает ли.
 
 
