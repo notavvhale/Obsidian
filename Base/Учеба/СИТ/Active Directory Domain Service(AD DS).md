@@ -22,3 +22,6 @@
 Abatum.com - отдельный домен в лесу.
 Contoso.com - корневая область леса.
 Seattle.contoso.com - дочерний элемент Contoso.
+
+**Что такое MSA / gMSA / dMSA**
+Это всё — **служебные учётные записи (Service Accounts)** в Active Directory, которые используются для запуска сервисов.
