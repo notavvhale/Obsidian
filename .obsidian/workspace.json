@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
+                "file": "Base/Учеба/СИТ/Knocker MAC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Directory Domain Service(AD DS)"
+              "title": "Knocker MAC"
             }
           }
         ],
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,9 +226,10 @@
   },
   "active": "316fae985e58fe13",
   "lastOpenFiles": [
+    "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
+    "Base/Учеба/СИТ/Knocker MAC.md",
     "Pasted image 20260406101442.png",
     "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
-    "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
     "Base/Учеба/СИТ/FTP.md",
@@ -251,7 +251,6 @@
     "Base/Работа/Сброс таймера Rudesk.md",
     "Base/Работа/ККТ/Драйвер ККТ всегда х32.md",
     "Base/Хобби/Dungeons & Dragons.md",
-    "Base/Картинки/Pasted image 20260317164726.png",
     "Base/Отношения/Тонирование вкруг.md",
     "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
     "Base/Работа/ККТ/Регистрация ККТ.md",
