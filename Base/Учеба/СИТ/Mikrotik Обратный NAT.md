@@ -15,3 +15,5 @@
 	3. Protocol - tcp
 	4. Action - masquerade
 профит
+
+порты указывать не обязательно
