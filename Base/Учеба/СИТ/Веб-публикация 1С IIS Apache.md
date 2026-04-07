@@ -13,7 +13,7 @@
 После того как установили, заходим на сайт апач для windows
 https://www.apachelounge.com/download/ качаем пакет вот этот
 ![[Pasted image 20260204093712.png]]
-Распаковать эту папку по этому пути и зайти в conf/httpd.conf раскоментить строчку ServerName и заменить http://example.com на localhost
+Распаковать эту папку по этому пути, зайти в conf/httpd.conf раскомментить строчку ServerName и заменить http://example.com на localhost
 ![[Pasted image 20260204094246.png]]
 Открываем командную строку от администратора и переходим в папку **bin** каталога, куда распаковали apache — в нашем случае:
 
