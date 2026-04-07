@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 448.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc90dc7f5ab0e541",
+  "active": "a959d9c7b642afcd",
   "lastOpenFiles": [
     "Base/Учеба/СИТ/Knocker MAC.md",
     "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
-    "Pasted image 20260406101442.png",
+    "Base/Картинки/Pasted image 20260406101442.png",
     "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
