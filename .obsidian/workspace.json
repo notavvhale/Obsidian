@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Возврат Frontol"
             }
+          },
+          {
+            "id": "d60493456f5c9581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VPN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VPN"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38527fc0db20217b",
+  "active": "d60493456f5c9581",
   "lastOpenFiles": [
-    "Base/Работа/Сброс таймера Rudesk.md",
     "Base/Учеба/СИТ/Возврат Frontol.md",
+    "VPN.md",
+    "Base/Работа/Сброс таймера Rudesk.md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
     "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "Base/Учеба/СИТ/Firewall Mikrotik.md",
@@ -247,7 +262,6 @@
     "Base/Работа/1С/Учётка 1С.md",
     "Base/Работа/1С/Зависает 1С после логина в базу.md",
     "Base/Работа/1С/Добавление базы через веб-публикацию.md",
-    "Base/Отношения/8 марта.md",
     "Obsidian/Base/Работа/ЭЦП",
     "Obsidian/Base/Работа/Фронтол",
     "Obsidian/Base/Работа/ККТ",
