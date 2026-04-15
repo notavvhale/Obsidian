@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VPN.md",
+                "file": "Base/Учеба/СИТ/VPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "VPN"
             }
+          },
+          {
+            "id": "3274fedb861ea2e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Учеба/СИТ/Подключение Mikrotik к GPON терминалу Ростелекома.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Подключение Mikrotik к GPON терминалу Ростелекома"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,10 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d60493456f5c9581",
+  "active": "3274fedb861ea2e1",
   "lastOpenFiles": [
+    "Base/Учеба/СИТ/VPN.md",
+    "Base/Учеба/СИТ/Подключение Mikrotik к GPON терминалу Ростелекома.md",
     "Base/Учеба/СИТ/Возврат Frontol.md",
-    "VPN.md",
     "Base/Работа/Сброс таймера Rudesk.md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
     "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
@@ -261,7 +276,6 @@
     "Base/Работа/ККТ/Замена ФН.md",
     "Base/Работа/1С/Учётка 1С.md",
     "Base/Работа/1С/Зависает 1С после логина в базу.md",
-    "Base/Работа/1С/Добавление базы через веб-публикацию.md",
     "Obsidian/Base/Работа/ЭЦП",
     "Obsidian/Base/Работа/Фронтол",
     "Obsidian/Base/Работа/ККТ",
