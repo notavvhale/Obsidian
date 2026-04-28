@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "КриптоПРО"
             }
+          },
+          {
+            "id": "a4d94c31bfcf4a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отказоустойчивый интернет через рекурсивные маршруты Mikrotik"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,8 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3274fedb861ea2e1",
+  "active": "a4d94c31bfcf4a2b",
   "lastOpenFiles": [
+    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
+    "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik.md",
+    "Base/Работа/ЭЦП/КриптоПРО.md",
     "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
     "Base/Работа/ЭЦП/Рутокен пароль по умолчанию.md",
     "Base/Учеба/СИТ/Подключение Mikrotik к GPON терминалу Ростелекома.md",
@@ -249,7 +266,6 @@
     "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "Base/Учеба/СИТ/Firewall Mikrotik.md",
     "Base/Учеба/СИТ/FTP.md",
-    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
     "Base/Учеба/СИТ/Knocker MAC.md",
     "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
@@ -263,7 +279,6 @@
     "Base/Картинки/Pasted image 20260326135956.png",
     "Base/Учеба/СИТ/Сервер ломаных лицензий 1С.md",
     "Base/Картинки/Pasted image 20260326134231.png",
-    "Base/Работа/ЭЦП/КриптоПРО.md",
     "Base/Картинки/Pasted image 20260325134418.png",
     "Base/Работа/Стандарт затраченного времени.md",
     "Base/Работа/ККТ/Драйвер ККТ всегда х32.md",
@@ -275,7 +290,6 @@
     "Base/Работа/ККТ/Если ФН просрочен и не даёт его закрыть.md",
     "Base/Работа/ККТ/Замена ФН.md",
     "Base/Работа/1С/Учётка 1С.md",
-    "Base/Работа/1С/Зависает 1С после логина в базу.md",
     "Obsidian/Base/Работа/ЭЦП",
     "Obsidian/Base/Работа/Фронтол",
     "Obsidian/Base/Работа/ККТ",
