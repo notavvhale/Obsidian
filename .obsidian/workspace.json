@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik.md",
+                "file": "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik RouterOS v7.22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отказоустойчивый интернет через рекурсивные маршруты Mikrotik"
+              "title": "Отказоустойчивый интернет через рекурсивные маршруты Mikrotik RouterOS v7.22"
             }
           }
         ]
@@ -194,31 +194,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc90dc7f5ab0e541",
+  "active": "3274fedb861ea2e1",
   "lastOpenFiles": [
+    "Pasted image 20260429110031.png",
+    "Pasted image 20260429110005.png",
+    "Pasted image 20260429105428.png",
+    "Pasted image 20260429105134.png",
+    "Pasted image 20260429093637.png",
+    "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik RouterOS v7.22.md",
+    "Pasted image 20260429094410.png",
+    "Pasted image 20260429092735.png",
+    "Pasted image 20260429092600.png",
     "Base/Картинки/Pasted image 20260428174906.png",
     "Base/Картинки/Pasted image 20260428174120.png",
     "Base/Картинки/Pasted image 20260428173927.png",
-    "Base/Картинки/Pasted image 20260428173557.png",
-    "Base/Картинки/Pasted image 20260428173440.png",
     "Base/Учеба/СИТ/Firewall Mikrotik.md",
     "Base/Проекты/Синхронизация GIT.md",
     "Base/Учеба/СИТ/VPN.md",
     "Base/Учеба/СИТ/FTP.md",
-    "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik.md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
     "Base/Учеба/СИТ/Возврат Frontol.md",
     "Base/Учеба/СИТ/Подключение Mikrotik к GPON терминалу Ростелекома.md",
     "Base/Учеба/СИТ/Сервер ломаных лицензий 1С.md",
     "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
-    "Base/Картинки/Pasted image 20260428171022.png",
-    "Base/Картинки/Pasted image 20260428165242.png",
-    "Base/Картинки/Pasted image 20260428165237.png",
-    "Base/Картинки/Pasted image 20260428165222.png",
-    "Base/Картинки/Pasted image 20260428165019.png",
     "Base/Работа/ЭЦП/КриптоПРО.md",
-    "Base/Картинки/Pasted image 20260428164935.png",
     "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
     "Base/Работа/ЭЦП/Рутокен пароль по умолчанию.md",
