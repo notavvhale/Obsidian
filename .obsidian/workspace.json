@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Работа/Госплагин.md",
+                "file": "Base/Работа/Сброс таймера Rudesk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Госплагин"
+              "title": "Сброс таймера Rudesk"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Rude",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 448.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +198,13 @@
   },
   "active": "3274fedb861ea2e1",
   "lastOpenFiles": [
-    "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik RouterOS v7.22.md",
+    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
+    "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
+    "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
+    "Base/Работа/ЭЦП/Рутокен пароль по умолчанию.md",
+    "Base/Работа/ЭЦП/Извлечение ЭЦП.md",
     "Base/Работа/Госплагин.md",
+    "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik RouterOS v7.22.md",
     "Base/Учеба/СИТ/Подключение Mikrotik к GPON терминалу Ростелекома.md",
     "Base/Учеба/СИТ/Возврат Frontol.md",
     "Base/Проекты/Синхронизация GIT.md",
@@ -210,9 +217,7 @@
     "Base/zКартинки/Pasted image 20260430103937.png",
     "Base/Работа/ККТ/Проверка версии прошивки ККТ АТОЛ Тест драйвера ККТ.md",
     "Base/zКартинки/Pasted image 20260430103725.png",
-    "Base/Работа/ЭЦП/Извлечение ЭЦП.md",
     "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
-    "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/zКартинки/Pasted image 20260430101319.png",
     "Base/Картинки/Pasted image 20260428165019.png",
     "Base/zКартинки/Pasted image 20260430101220.png",
@@ -226,10 +231,7 @@
     "Base/Учеба/СИТ/FTP.md",
     "Base/Учеба/СИТ/Zabbix и прокси.md",
     "Base/Учеба/СИТ/Mikrotik Обратный NAT.md",
-    "Base/Учеба/СИТ/Active Directory Domain Service(AD DS).md",
     "Base/Работа/ЭЦП/КриптоПРО.md",
-    "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
-    "Base/Работа/ЭЦП/Рутокен пароль по умолчанию.md",
     "Base/Учеба/СИТ/Knocker MAC.md",
     "Base/Работа/ККТ/Драйвер ККТ всегда х32.md",
     "Base/Учеба/СИТ",
