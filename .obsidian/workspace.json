@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Проекты/Синхронизация GIT.md",
+                "file": "Base/Работа/Сброс таймера Rudesk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Синхронизация GIT"
+              "title": "Сброс таймера Rudesk"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rude",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,8 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc90dc7f5ab0e541",
+  "active": "d394e776b713d317",
   "lastOpenFiles": [
+    "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
+    "Base/Работа/Стандарт затраченного времени.md",
+    "Base/Проекты/Синхронизация GIT.md",
     "Base/Работа/Восстановление почты Outlook POP3 IMAP.md",
     "Base/zКартинки/Pasted image 20260506104413.png",
     "Base/zКартинки/Pasted image 20260506103616.png",
@@ -228,18 +232,15 @@
     "Base/Учеба/СИТ/Подключение Mikrotik к GPON терминалу Ростелекома.md",
     "Base/Учеба/СИТ/Отказоустойчивый интернет через рекурсивные маршруты Mikrotik RouterOS v7.22.md",
     "Base/Учеба/СИТ/Возврат Frontol.md",
-    "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "Base/Учеба/СИТ/Активация AutoDesk Сетевая лицензия.md",
     "Base/Работа/ККТ/Замена ФН.md",
     "Base/Работа/ККТ/Не удается закрыть архив ФН. Просрочен ФН..md",
-    "Base/Работа/Стандарт затраченного времени.md",
     "Base/Хобби/Dungeons & Dragons.md",
     "Base/Работа/FIX RDP win11 апрель 2026. Отключает предупреждение системы безопасности при подключении к удалённому рабочему столу..md",
     "Base/Работа/ЭЦП/Обновление сертификата через СБИС.md",
     "Base/Работа/ЭЦП/Рутокен пароль по умолчанию.md",
     "Base/Работа/ЭЦП/Извлечение ЭЦП.md",
     "Base/Работа/Госплагин.md",
-    "Base/Проекты/Синхронизация GIT.md",
     "Base/Работа/Определение комплектующих ПК.md",
     "Base/Отношения/14 февраля.md",
     "Base/Работа/ККТ/Проверка версии прошивки ККТ АТОЛ Тест драйвера ККТ.md",
