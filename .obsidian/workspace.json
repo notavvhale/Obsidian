@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Работа/Установка и активация MS Office на MAC OS.md",
+                "file": "Base/Работа/Сброс таймера Rudesk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Установка и активация MS Office на MAC OS"
+              "title": "Сброс таймера Rudesk"
             }
           }
         ],
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc90dc7f5ab0e541",
+  "active": "f0a79c9651cf7ee1",
   "lastOpenFiles": [
-    "Base/Работа/Сброс таймера Rudesk.md",
     "Base/Работа/Установка и активация MS Office на MAC OS.md",
+    "Base/Работа/Сброс таймера Rudesk.md",
     "Base/Учеба/СИТ/Веб-публикация 1С IIS Apache.md",
     "Base/Работа/Стандарт затраченного времени.md",
     "Base/Проекты/Синхронизация GIT.md",
